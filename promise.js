@@ -1,4 +1,6 @@
 //promise
+        // JS is doing promises to us that some resouce is fetching right now 
+        // as soon it resolves it gives us output if it resovled otherwise rejected 
         // function getmePromise(){
         //     return fetch('/data.json');
         // }
@@ -50,9 +52,9 @@
                 //     return new Promise((resolve,reject) => {     // for easy understanding
                 //         setTimeout(() =>{
                 //             timer.innerText = new Date().to
-                           
+                                // resolve();
                 //         },1000)
-                //         resolve();
+                //         
                 //          reject();
                 //     })
                 // }  
